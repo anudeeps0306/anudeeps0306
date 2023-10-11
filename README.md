@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 I'm Anudeep Sanapala</h1>
 <h3 align="center">A passionate FullStack developer and competitive programmer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeep&label=Profile%20views&color=0e75b6&style=flat" alt="soham2312" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeep&label=Profile%20views&color=0e75b6&style=flat" alt="anudeeps0306" /> </p>
 
 - 🎓 I'm currently a *3nd-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻
 
