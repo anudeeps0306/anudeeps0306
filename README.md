@@ -89,7 +89,3 @@
     <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> 
   </a> 
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anudeeps0306&show_icons=true&locale=en&layout=compact" alt="anudeeps0306" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anudeeps0306&show_icons=true&locale=en" alt="anudeeps0306" /></p>
