@@ -5,7 +5,7 @@
 
 - 🎓 I'm currently a *3nd-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻
 
-- 🌱 I’m currently learning *Machine learning*
+- 🌱 I’m currently learning *DevOps*
 
 - 👯 I’m looking to collaborate on *ML/AL Projects and MERN stack projects*
 
