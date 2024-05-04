@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anudeep&label=Profile%20views&color=0e75b6&style=flat" alt="anudeeps0306" /> </p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anudeeps0306&theme=algolia)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anudeeps0306&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anudeeps0306&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anudeeps0306&theme=algolia)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anudeeps0306&theme=algolia&utcOffset=8)
+
 - 🎓 I'm currently a *3nd-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻
 
 - 🌱 I’m currently learning *DevOps*
 
 - 👯 I’m looking to collaborate on *ML/AL Projects and MERN stack projects*
 
-- 👨‍💻 Check out my projects on [GitHub](https://github.com/anudeeps0306)
 
 - 💬 Ask me about *Web Development and ML/AI*
 
