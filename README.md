@@ -6,8 +6,6 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anudeeps0306&theme=algolia)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anudeeps0306&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=anudeeps0306&theme=algolia)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=anudeeps0306&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anudeeps0306&theme=algolia&utcOffset=8)
 
 - 🎓 I'm currently a *3nd-year CSE undergraduate at IIITDMJ* 🧑🏻‍💻
